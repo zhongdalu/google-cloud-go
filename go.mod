@@ -1,4 +1,4 @@
-module cloud.google.com/go
+module zdl.cloud.google.com/go
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
